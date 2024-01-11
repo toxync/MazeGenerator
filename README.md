@@ -19,7 +19,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 <details>
   <summary>랜덤 미로 생성 & 초기화 펼치기/접기</summary><br>
 
-  
+  ![GenerateRandomMazeDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/generate_random_maze_demo.gif)
 </details>
 
 ### 미로 데이터 저장
@@ -29,7 +29,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 <details>
   <summary>미로 데이터 저장 펼치기/접기</summary><br>
 
-  
+  ![SaveMazeDataDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/save_maze_data_demo.gif)
 </details>
 
 ### 미로 데이터 읽기 & 불러오기
@@ -40,7 +40,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 <details>
   <summary>미로 데이터 읽기 & 불러오기 펼치기/접기</summary><br>
 
-  
+  ![LoadMazeDataDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/load_maze_data_demo.gif)
 </details>
 
 ### 미로 경로 탐색
@@ -54,13 +54,13 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 <details>
   <summary>경로 탐색 성공 펼치기/접기</summary><br>
 
-  
+  ![FindMazePathDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/find_maze_path_demo.gif)
 </details>
 
 <details>
   <summary>경로 탐색 실패 펼치기/접기</summary><br>
 
-  
+  ![NoMazePathDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/no_maze_path_demo.gif)
 </details>
 
 ### 경로 애니메이션 재생
@@ -70,7 +70,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 <details>
   <summary>경로 애니메이션 재생 펼치기/접기</summary><br>
 
-  
+  ![ShowPathMotionDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/show_path_motion_demo.gif)
 </details>
 
 ### 읽어들인 미로 데이터 삭제
@@ -81,7 +81,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 <details>
   <summary>미로 데이터 삭제 펼치기/접기</summary><br>
 
-  
+  ![RemoveMazeDataDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/remove_maze_data_demo.gif)
 </details>
 
 ### Wilson's Algorithm
