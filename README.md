@@ -17,7 +17,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 * '미로 초기화' 버튼을 클릭해서 생성된 랜덤 미로를 삭제할 수 있습니다.
 
 <details>
-  <summary>랜덤 미로 생성 & 초기화 펼치기/접기</summary><br>
+  <summary>랜덤 미로 생성 & 초기화(펼치기/접기)</summary><br>
 
   ![GenerateRandomMazeDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/generate_random_maze_demo.gif)
 </details>
@@ -27,7 +27,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 * '미로 데이터 저장' 버튼을 클릭해서 생성된 랜덤 미로 데이터를 텍스트 파일로 저장할 수 있습니다.
 
 <details>
-  <summary>미로 데이터 저장 펼치기/접기</summary><br>
+  <summary>미로 데이터 저장(펼치기/접기)</summary><br>
 
   ![SaveMazeDataDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/save_maze_data_demo.gif)
 </details>
@@ -38,7 +38,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 * 읽어들인 미로 목록에서 미로 데이터를 선택한 다음 '미로 데이터 불러오기' 버튼을 클릭하여 읽어들인 미로 데이터를 불러올 수 있습니다.
 
 <details>
-  <summary>미로 데이터 읽기 & 불러오기 펼치기/접기</summary><br>
+  <summary>미로 데이터 읽기 & 불러오기(펼치기/접기)</summary><br>
 
   ![LoadMazeDataDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/load_maze_data_demo.gif)
 </details>
@@ -52,13 +52,13 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 * 경로 탐색에 실패했다면 경로가 없음을 알리는 메시지 박스를 생성합니다.
 
 <details>
-  <summary>경로 탐색 성공 펼치기/접기</summary><br>
+  <summary>경로 탐색 성공(펼치기/접기)</summary><br>
 
   ![FindMazePathDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/find_maze_path_demo.gif)
 </details>
 
 <details>
-  <summary>경로 탐색 실패 펼치기/접기</summary><br>
+  <summary>경로 탐색 실패(펼치기/접기)</summary><br>
 
   ![NoMazePathDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/no_maze_path_demo.gif)
 </details>
@@ -68,7 +68,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 * 설정된 출발점과 도착점 사이에 경로가 존재한다면 '경로 애니메이션 재생' 버튼을 클릭해서 출발점부터 도착점까지의 경로 애니메이션을 볼 수 있습니다.
 
 <details>
-  <summary>경로 애니메이션 재생 펼치기/접기</summary><br>
+  <summary>경로 애니메이션 재생(펼치기/접기)</summary><br>
 
   ![ShowPathMotionDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/show_path_motion_demo.gif)
 </details>
@@ -79,7 +79,7 @@ C#으로 제작된 랜덤 미로 생성 & 미로 경로 탐색 프로그램입�
 * 마우스 좌클릭 드래그로 한 번에 여러 개의 미로 데이터 항목을 선택해서 삭제할 수 있습니다.
 
 <details>
-  <summary>미로 데이터 삭제 펼치기/접기</summary><br>
+  <summary>미로 데이터 삭제(펼치기/접기)</summary><br>
 
   ![RemoveMazeDataDemo](https://raw.githubusercontent.com/toxync/MazeGenerator/master/Maze_Generator/demo_images/remove_maze_data_demo.gif)
 </details>
